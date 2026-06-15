@@ -5,7 +5,7 @@ function openInvite() {
   music.play().catch(() => {});
 }
 
-const weddingDate = new Date("2027-10-10T11:00:00");
+const weddingDate = new Date("2026-10-10T11:00:00");
 
 setInterval(() => {
   const now = new Date();
